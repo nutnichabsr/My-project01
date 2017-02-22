@@ -261,6 +261,11 @@ li a:hover:not(.active) {
     height: auto;
     padding-left: 119px;
 }
+#im{
+  width: 16px;
+  height: 800px;
+  background-color: red;
+}
 
 footer{
   width: 1290px;

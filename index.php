@@ -32,10 +32,10 @@
 			
 	    </div>
 	   <div class="pro">
-	   		<a href="index.php"><img src="image/promotion1.jpg"></a>
+	   		<a href="menu.php"><img src="image/promotion1.jpg"></a>
 	   		<img src="image/pro2.jpg">
 	   </div>
-	    <footer>ndvjnjd</footer>
+	   <footer>© 2017 create by | nutnicha beawsiri<br>For education only</footer>
 
 	   
 		

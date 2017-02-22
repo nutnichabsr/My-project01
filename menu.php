@@ -32,7 +32,7 @@ if(isset($_SESSION['qty'])){
 			<div id="tlogo"><img src="image/ther.jpg" width="300" height="100"></div>
 			<nav>
 			<ul>
-				<li><a href="home.php">HOME</a></li>
+				<li><a href="index.php">HOME</a></li>
 				<li class="active">MENU</li>
 				<li><a href="#news">PROMOTION</a></li>
 				<li><a href="#news">BOOKING</a></li>

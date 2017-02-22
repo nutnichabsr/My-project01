@@ -52,10 +52,10 @@ if (isset($_SESSION['cart']) and $itemCount > 0)
 			</div>
 			<nav>
 			<ul>
-				<li><a href="index.php">HOME</a></li>
-				<li class="active">MENU</li>
-				<li><a href="#news">PROMOTION</a></li>
-				<li><a href="#news">BOOKING</a></li>
+				<li><a href="index.php"> HOME</a></li>
+                <li class="active"><a href="menu.php">MENU</a></li>
+                <li><a href="#news">PROMOTION</a></li>
+                <li><a href="#news">BOOKING</a></li>
 				
 			</ul>
 			 </nav>
@@ -111,7 +111,7 @@ if (isset($_SESSION['cart']) and $itemCount > 0)
          <div class="order-price">
          	รวมทั้งสิ้น:&nbsp<?php echo number_format($total_price,2); ?>  บาท
          	
-         	<button class="bgy"><a href="order.php">สั่งซื้อเลย</a></button>
+         	<button class="bgy"><a href="login.php">สั่งซื้อเลย</a></button>
 			<button type="submit" class="btn" class="bgw">คำนวณราคาใหม่</button>
          </div> 
          		</form>
@@ -120,6 +120,7 @@ if (isset($_SESSION['cart']) and $itemCount > 0)
             ?>            
 
 	    </div>
+	    <footer>© 2017 create by | nutnicha beawsiri<br>For education only</footer>
 
 
 
